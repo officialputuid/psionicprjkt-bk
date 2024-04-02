@@ -1,18 +1,12 @@
 <img width="528px" src="https://repository-images.githubusercontent.com/443062305/3a207efb-eeb4-47d4-9ab5-c51beb197add"><br/><br/>
 
-psionicprjkt is a project created especially for android development, providing custom roms, custom kernels and FOSS!
+**psionicprjkt is a project created especially for android development, providing custom roms, and custom kernels**
 
-- **Primary Repositories:**
-  - [psionicprjkt](https://github.com/psionicprjkt)
-  - [GitHub](https://github.com/officialputuid)
-  - [GitLab](https://gitlab.com/officialputuid)
+Stay up-to-date with our project:
+  - [psionicprjkt](https://github.com/psionicprjkt) - [GitHub](https://github.com/officialputuid) - [GitLab](https://gitlab.com/officialputuid)
+  - [@psionicprjkt CH](https://t.me/psionicprjkt) - [@psionicprjktlogs CH](https://t.me/psionicprjktlogs) - [@psionicprjktchat Group](https://t.me/psionicprjktchat)
 
-- **Telegram Channels:**
-  - [@psionicprjkt CH](https://t.me/psionicprjkt)
-  - [@psionicprjktlogs CH](https://t.me/psionicprjktlogs)
-  - [@psionicprjktchat Group](https://t.me/psionicprjktchat)  
-
-# Downloads
+## Downloads
 
 You can download the latest releases from our SourceForge:
 
@@ -25,14 +19,14 @@ You can download the latest releases from our SourceForge:
 [![Download psionicprjkt](https://img.shields.io/sourceforge/dw/psionicprjkt?color=7f3ace&logo=sourceforge&logoColor=7f3ace&style=for-the-badge)](https://sourceforge.net/projects/psionicprjkt/files/latest/download)
 [![Download psionicprjkt](https://img.shields.io/sourceforge/dm/psionicprjkt?color=7f3ace&logo=sourceforge&logoColor=7f3ace&style=for-the-badge)](https://sourceforge.net/projects/psionicprjkt/files/latest/download)
 
-# Contact Us
+## Contact Us
 
 Feel free to reach out to us through the following channels:
 
 - **Telegram:** [@officialputuid](https://t.me/officialputuid)
 - **Email:** [officialputuid@hack.id](mailto:officialputuid@hack.id)
 
-# Donate to Support Us
+## Donate to Support Us
 
 Your support helps us continue our work and contribute to the community:
 
