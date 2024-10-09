@@ -10,7 +10,7 @@ Stay up-to-date with our project:
 
 You can download the latest releases from our SourceForge:
 
-<a href="https://sourceforge.net/projects/psionicprjkt"><img width="64px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-users-love-us-black" /></a> <a href="https://sourceforge.net/projects/psionicprjkt"><img width="64px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-rising-star-black?achievement=oss-rising-star" /></a> <a href="https://sourceforge.net/projects/psionicprjkt"><img width="64px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-community-choice-black" /></a>
+<a href="https://sourceforge.net/projects/psionicprjkt"><img width="72px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-users-love-us-black" /></a> <a href="https://sourceforge.net/projects/psionicprjkt"><img width="72px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-rising-star-black?achievement=oss-rising-star" /></a> <a href="https://sourceforge.net/projects/psionicprjkt"><img width="72px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-community-choice-black" /></a> <a href="https://sourceforge.net/projects/psionicprjkt"><img width="72px" src="https://sourceforge.net/cdn/syndication/badge_img/3462003/oss-sf-favorite-black?achievement=oss-sf-favorite" /></a>
 
 [![Download psionicprjkt](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/psionicprjkt/files)
 
